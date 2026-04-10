@@ -4,7 +4,7 @@ buildscript {
     mavenCentral()
   }
   dependencies {
-    classpath("net.serenity-bdd:serenity-single-page-report:4.2.34")
+    classpath("net.serenity-bdd:serenity-single-page-report:4.3.4")
   }
 }
 
